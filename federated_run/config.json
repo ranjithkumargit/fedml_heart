@@ -1,0 +1,1 @@
+{"out": "federated_run", "model": "lr", "rounds": 15, "local_epochs": 5, "lr": 0.3, "epsilon": 5.0, "clip_norm": 1.0, "secure": true, "secret": "demo-shared-secret", "port": 8899, "hospitals": ["Hospital A", "Hospital B", "Hospital C"], "sizes": {"Hospital A": 81, "Hospital B": 80, "Hospital C": 80}}
